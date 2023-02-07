@@ -2,9 +2,10 @@
 title: "index"
 author: "Bronwyn"
 date: "2023-02-07"
-output: html_document
+output: github_document
 ---
 
+Sarah made this change
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
