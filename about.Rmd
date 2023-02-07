@@ -1,6 +1,0 @@
----
-title: "About"
-output: html_document
----
-
-Text about Bronwyn and Sarah
