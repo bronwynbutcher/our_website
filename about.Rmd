@@ -1,7 +1,0 @@
----
-title: About
-author: Sarah Lawhun
-output: html_document
----
-
-Text about Bronwyn and Sarah
