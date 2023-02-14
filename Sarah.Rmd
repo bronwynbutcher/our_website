@@ -2,3 +2,5 @@
 title: "Sarah"
 output: html_document
 ---
+
+I'm a freshwater ecologist from the Chicago area and I love the Great Lakes. Lake Michigan is my current study system.

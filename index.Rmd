@@ -1,6 +1,6 @@
 ---
-title: "See Hedgehog Below:"
-author: Bronwyn and Sarah
+title: "Bronwyn and Sarah's Collaborative Website"
+author: Here's a hedgehog
 output: html_document
 ---
 ![](https://www.picng.com/upload/hedgehog/png_hedgehog_2530.png){width=70%}
