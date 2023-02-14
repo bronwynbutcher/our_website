@@ -1,11 +1,11 @@
-name: "our-website"
+output_dir: "."
 navbar:
-  title: "Home"
+  title: "Our Website"
   left:
-    - text: "index"
+    - text: "Home"
       href: index.html
     - text: "Sarah"
       href: Sarah.html
     - text: "Bronwyn"
       href: Bronwyn.html
-output_dir: "."
+
