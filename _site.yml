@@ -5,5 +5,5 @@ navbar:
     - text: "Sarah"
       href: Sarah.html
     - text: "Bronwyn"
-      href: about.html
+      href: Bronwyn.html
 output_dir: "."
