@@ -2,6 +2,8 @@ name: "our-website"
 navbar:
   title: "Home"
   left:
+    - text: "index"
+      href: index.html
     - text: "Sarah"
       href: Sarah.html
     - text: "Bronwyn"
